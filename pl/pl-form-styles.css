@@ -1,0 +1,30 @@
+#sib-container input:-ms-input-placeholder {
+  color: #c0ccda;
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+}
+
+#sib-container input::placeholder {
+  color: #c0ccda;
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+}
+
+#sib-container textarea::placeholder {
+  color: #c0ccda;
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+}
+
+#sib-container a {
+  color: #2bb2fc;
+  text-decoration: underline;
+}
+
+.sib-form-block__button:hover {
+  background-color: #10819f !important;
+}
+
+/* html {
+  background-color: #eee;
+} */
